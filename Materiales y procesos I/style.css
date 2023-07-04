@@ -28,7 +28,7 @@ html{
 
 header
 .container-hero{
-  background-image: url(./Imagenes/fondo\2.jpeg);
+  background-image: url(./Imagenes/fondo\ 2.jpeg);
   flex-wrap: wrap;
   background-size: 40rem;
 }
